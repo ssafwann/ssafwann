@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on frontend web development, mainly designing static sites that I intend to sell.
 - 🌱 I’m currently learning tailwind CSS, web accessibility and more.
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammadsafwanmalik/)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammadsafwanmalik/), [Website](https://maliksafwan.netlify.app/).
+- ⚡ Fun fact: I am still a student studying computer science.
 
 <!--
 **ssafwann/ssafwann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

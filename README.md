@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on frontend web development, mainly designing static sites that I intend to sell.
-- 🌱 I’m currently learning tailwind CSS, web accessibility and more.
+- 🔭 I’m currently working on frontend web development, busy working as a freelancer.
+- 🌱 I’m currently learning SASS, web accessibility and more.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammadsafwanmalik/), [Website](https://maliksafwan.netlify.app/).
 - ⚡ Fun fact: I am a student studying computer science.
 

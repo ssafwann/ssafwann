@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on frontend web development, busy working as a freelancer.
+- 🔭 I’m currently busy at university, but on the side I am developing several web dev projects.
 - 🌱 I’m currently learning SASS, web accessibility and more.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammadsafwanmalik/), [Website](https://maliksafwan.netlify.app/).
 - ⚡ Fun fact: I am a student studying computer science.

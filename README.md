@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently busy at university, but on the side I am developing several web dev projects.
-- 🌱 I’m currently learning SASS, web accessibility and more.
+- 🔭 I’m working on my final year project, a React native mobile app.
+- 🌱 I’m currently learning about react native.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammadsafwanmalik/), [Website](https://maliksafwan.netlify.app/).
-- ⚡ Fun fact: I am a student studying computer science.
+- ⚡ Fun fact: I am about to graduate from university and am actively seeking job opportunities.
 
 <!--
 **ssafwann/ssafwann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

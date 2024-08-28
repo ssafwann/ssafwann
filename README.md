@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m working on my final year project, a React native mobile app.
-- 🌱 I’m currently learning about react native.
+- 🔭 I’m currently working on some personal projects. 
+- 🌱 I’m currently learning new technologies such as Next.js. 
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammadsafwanmalik/), [Website](https://maliksafwan.netlify.app/).
 - ⚡ Fun fact: I am about to graduate from university and am actively seeking job opportunities.
 

@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently freelancing and working on a personal project.
 - 🌱 I’m currently learning new technologies such as Next.js.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammadsafwanmalik/), [Website](https://maliksafwan.netlify.app/).
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammadsafwanmalik/), [Portfolio Website](https://maliksafwan.netlify.app/).
 - ⚡ Fun fact: I just graduated from university and am looking job opportunities.
 <!--
 **ssafwann/ssafwann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

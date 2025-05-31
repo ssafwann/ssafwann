@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently freelancing and working on a personal project.
-- 🌱 I’m currently learning new technologies such as Next.js.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammadsafwanmalik/), [Portfolio Website](https://maliksafwan.netlify.app/).
-- ⚡ Fun fact: I just graduated from university and am looking job opportunities.
+- 🔭 I'm currently Building an iOS app called Hudan (Daily Hadith app)
+- 🌱 I'm documenting my journey of building this app on X (Twitter).
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammadsafwanmalik/), [X (Twitter)](https://x.com/safwanmalikkk), [Portfolio Website](https://maliksafwan.netlify.app/).
+- ⚡ Fun fact: Um I can't think of one.
 <!--
 **ssafwann/ssafwann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

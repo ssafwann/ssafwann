@@ -3,7 +3,7 @@
 - 🔭 I'm currently Building an iOS app called Hudan (Daily Hadith app)
 - 🌱 I'm documenting my journey of building this app on X (Twitter).
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammadsafwanmalik/), [X (Twitter)](https://x.com/safwanmalikkk), [Portfolio Website](https://maliksafwan.netlify.app/).
-- ⚡ Fun fact: Connect with my if you're interested in collaborating. 
+- ⚡ Fun fact: Connect with me if you're interested in collaborating. 
 <!--
 **ssafwann/ssafwann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

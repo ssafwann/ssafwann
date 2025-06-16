@@ -29,7 +29,7 @@ I was born and raised in Hong Kong 🇭🇰 with Pakistani roots, and I'm curren
 
 ## 🔭 I'm Currently Working On
 
-[<img src="assets/hudan_app.png" alt="hudan_app" height="150px">](https://github.com/ssafwann/hudan-app)
+[<img src="assets/hudan_app.png" alt="hudan_app" height="100px">](https://github.com/ssafwann/hudan-app)
 
 ## 📫 How to Reach Me
 

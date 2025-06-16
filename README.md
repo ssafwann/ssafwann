@@ -15,10 +15,22 @@ I was born and raised in Hong Kong 🇭🇰 with Pakistani roots, and I'm curren
 - Avid reader 📚 always looking for book recommendations!
 - Fitness enthusiast 🏋️ I enjoy hitting the gym regularly.
 
+## 🔨 Languages and Tools:
+
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
+<a href="https://nextjs.org/" target="_blank"> <img align="left" alt="Next.js" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="firebase" height ="42px"/> </a>
+<a href="https://supabase.com/" target="_blank"> <img align="left" alt="Supabase" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"></a>
+<a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="TailwindCSS" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"></a>
+<a href="https://ui.shadcn.com/" target="_blank"> <img align="left" alt="ShadCN" height ="42px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png
+"></a>
+
+<a href="https://www.figma.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" height='42px'/> </a>
+
 ## 🔭 I'm Currently Working On
 
 [<img src="assets/hudan_app.png" alt="hudan_app" height="150px">](https://github.com/ssafwann/hudan-app)
-
 
 ## 📫 How to Reach Me
 

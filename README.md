@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Safwan 👋</h1>
 
 <p align="center">
-  <strong>Web apps · iOS apps · UI that's too polished</strong>
+  <strong>Full-stack web · UI/UX · Turning ideas into products</strong>
 </p>
 
 <p align="center">

@@ -15,12 +15,12 @@
 </p>
 
 ---
+It started at 15 in an intro HTML course, and I've been hooked since. I keep chasing the gap between "it works" and "it works for actual users."
 
-I like taking an idea, working out how it should work, designing the experience, and watching it become real.
-
-
-probably spent more time adjusting a button than I should have.
-
+- **Full-stack:** Next.js, React, TypeScript, Convex, Supabase, PostgreSQL, SwiftUI.
+- **Idea to product:** Working out how it should work, designing it, building it, launching it, then improving it with real users.
+- **UI/UX:** Simple, polished interfaces, thorough down to the last button.
+  
 ### Projects
 
 | Project | What it is |

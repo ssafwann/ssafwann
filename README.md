@@ -43,7 +43,7 @@ Next.js · React · TypeScript · Convex · PostgreSQL · Supabase · Tailwind �
 
 - ⚽ Attacker. Manchester United fan, so I suffer weekly.
 - 🎮 Video games. Who on GitHub doesn't?
-- 📚 Reading Digital Fortress by Dan Brown. Got a rec? Send it.
+- 📚 Currently reading Digital Fortress by Dan Brown.
 
 ### Say hi
 

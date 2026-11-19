@@ -1,42 +1,52 @@
-## Hi there, I'm Malik Safwan 👋
+<h1 align="center">Hey, I'm Safwan 👋</h1>
 
-<!-- [![youtube channel link](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](put link here) -->
-<!-- [![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](put link here) -->
-<!-- [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](put link here) -->
-[![twitter profile link](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/safwanmalikkk)
-[![linkedIn profile link](https://img.shields.io/badge/LinkedIn-094A90?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/maliksafwann/)
+<p align="center">
+  <strong>Web apps · iOS apps · UI that's too polished</strong>
+</p>
 
-## 🙋‍♂️ About Me
+<p align="center">
+  Software engineer building <a href="https://maktabook.app/">Maktabook</a>
+</p>
 
-I was born and raised in Hong Kong 🇭🇰 with Pakistani roots, and I'm currently building from the HK timezone 🌎. I'm passionate about creating clean, practical web and mobile apps 💻 that solve real problems and feel good to use.
+<p align="center">
+  <a href="https://x.com/safwanmalikkk">X / @safwanmalikkk</a> ·
+  <a href="https://www.linkedin.com/in/maliksafwann/">LinkedIn</a> ·
+  <a href="mailto:safwan917@gmail.com">Email</a>
+</p>
 
-### Fun Facts
-- I love playing football ⚽ and often spend my weekends on the pitch.
-- Avid reader 📚 always looking for book recommendations!
-- Fitness enthusiast 🏋️ I enjoy hitting the gym regularly.
+---
 
-## 🔨 Languages and Tools:
+I like taking an idea, working out how it should work, designing the experience, and watching it become real. I'm also a bit too particular about UI. I've probably spent more time adjusting a button than I should have.
 
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
-<a href="https://nextjs.org/" target="_blank"> <img align="left" alt="Next.js" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://supabase.com/" target="_blank"> <img align="left" alt="Supabase" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"></a>
-<a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="TailwindCSS" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"></a>
-<a href="https://ui.shadcn.com/" target="_blank"> <img align="left" alt="ShadCN" height ="42px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png"></a>
+### Projects
 
-<a href="https://www.figma.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" height='42px'/> </a>
+| Project | What it is |
+| --- | --- |
+| [**Maktabook**](https://maktabook.app/) | A note-taking app designed for Islamic Studies. Used by 880+ people. |
+| [**Hudan**](https://github.com/ssafwann/hudan-app) | A SwiftUI iOS app that puts a daily hadith in a widget.  |
 
-## 🔭 I'm Currently Working On
+### Stack
 
-[<img src="assets/maktabook.png" alt="maktabook_app" height="100px">](https://maktabook.app/)
-[<img src="assets/hudan_app.png" alt="hudan_app" height="100px">](https://github.com/ssafwann/hudan-app)
+<p>
+  <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" /></a>
+  <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>
+  <a href="https://supabase.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" /></a>
+  <a href="https://www.swift.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="40" height="40" /></a>
+  <a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" /></a>
+</p>
 
-## 📫 How to Reach Me
+Next.js · React · TypeScript · Convex · PostgreSQL · Supabase · Tailwind · SwiftUI · Figma
 
-Feel free to connect with me:
-- [Email](mailto:safwan917@gmail.com)
-- [Twitter](https://x.com/safwanmalikkk)
+### Off the keyboard
 
-## 🚀 Let's Collaborate!
-I'm always open to new projects and collaborations. If you have an idea or want to work together, don't hesitate to reach out!
+- ⚽ Attacker. Manchester United fan, so I suffer weekly.
+- 🎮 Video games. Who on GitHub doesn't?
+- 📚 Reading Digital Fortress by Dan Brown. Got a rec? Send it.
+
+### Say hi
+
+Got an idea you want built? Or want to work together? Feel free to reach out!
+
+<sub>P.S. I could have gone wild with this page. Neon gradients, animations, the works. I didn't. Dieter Rams said good design is as little design as possible.</sub>

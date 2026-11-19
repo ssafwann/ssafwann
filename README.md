@@ -16,7 +16,10 @@
 
 ---
 
-I like taking an idea, working out how it should work, designing the experience, and watching it become real. I'm also a bit too particular about UI. I've probably spent more time adjusting a button than I should have.
+I like taking an idea, working out how it should work, designing the experience, and watching it become real.
+
+
+probably spent more time adjusting a button than I should have.
 
 ### Projects
 
@@ -49,4 +52,4 @@ Next.js · React · TypeScript · Convex · PostgreSQL · Supabase · Tailwind �
 
 Got an idea you want built? Or want to work together? Feel free to reach out!
 
-<sub>P.S. I could have gone wild with this page. Neon gradients, animations, the works. I didn't. Dieter Rams said good design is as little design as possible.</sub>
+<sub>Everyone fails at who they are supposed to be. The measure of a person is how well they succeed to be who they are. — Frigga, Avengers: Endgame (2019)</sub>

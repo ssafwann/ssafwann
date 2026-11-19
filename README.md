@@ -15,7 +15,7 @@
 </p>
 
 ---
-It started at 15 in an intro HTML course, and I've been hooked since. I keep chasing the gap between "it works" and "it works for actual users."
+An intro HTML course at 15 got me hooked on building. Since then I've learned the part that matters: "it works" and "it works for actual users" are two different things.
 
 - **Full-stack:** Next.js, React, TypeScript, Convex, Supabase, PostgreSQL, SwiftUI.
 - **Idea to product:** Working out how it should work, designing it, building it, launching it, then improving it with real users.

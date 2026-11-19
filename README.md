@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Safwan 👋</h1>
 
 <p align="center">
-  <strong>Full-stack web · UI/UX · Turning ideas into products</strong>
+  <strong>Full-stack web · UI/UX · i0S</strong>
 </p>
 
 <p align="center">
@@ -17,9 +17,9 @@
 ---
 An intro HTML course at 15 got me hooked on building. Since then I've learned the part that matters: "it works" and "it works for actual users" are two different things.
 
-- **Full-stack:** Next.js, React, TypeScript, Convex, Supabase, PostgreSQL, SwiftUI.
-- **Idea to product:** Working out how it should work, designing it, building it, launching it, then improving it with real users.
-- **UI/UX:** Simple, polished interfaces, thorough down to the last button.
+Writing code isn't even my favorite part. I like having an idea, working out how it should work, designing the experience, and watching it become real.
+
+Nothing makes me happier than seeing someone use something I built.
   
 ### Projects
 
@@ -52,4 +52,4 @@ Next.js · React · TypeScript · Convex · PostgreSQL · Supabase · Tailwind �
 
 Got an idea you want built? Or want to work together? Feel free to reach out!
 
-<sub>Everyone fails at who they are supposed to be. The measure of a person is how well they succeed to be who they are. — Frigga, Avengers: Endgame (2019)</sub>
+<sub>Everyone fails at who they’re supposed to be. The measure of a person is how well they succeed at being who they are. — Frigga, Avengers: Endgame (2019)</sub>
